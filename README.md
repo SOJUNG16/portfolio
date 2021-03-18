@@ -4,7 +4,6 @@
 </br>
   
 ## :pushpin: Introduce.
-자기소개 작성
 ![3x4-2](https://user-images.githubusercontent.com/66711644/111581100-01677d80-87fc-11eb-9b26-ad783687622d.jpg)
 - 내가 어떤 개발자인지 나타낼 수 있도록 키워드를 선택해서 요약 소개
   - 키워드 : 회사와 팀에 도움이 되는 사람, 자동화를 좋아하는 사람
