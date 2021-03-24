@@ -53,21 +53,3 @@
 >
 >[프로젝트 상세 설명](https://github.com/SOJUNG16/andOne) 참고
 >
-
-### 4.핵심 기능
-
-- 위치기반 서비스
-- 포인트 충전을 이용한 선결제 서비스
-- 다자간 채팅 기능
-
-
-
-<details>
-    <summary><b>핵심기능 설명 펼치기</b></summary>
-    <div markdown="1"> 
-    #### 전체흐름
-    ![image](https://user-images.githubusercontent.com/66711644/112285006-3167c280-8ccd-11eb-9018-c0348a6b6559.png)
-   </div>
-</details>
-
-<br>
