@@ -26,7 +26,7 @@
 
 </br>
 
-## :pushpin: Project
+## :pushpin: Project.
 
 ### &분의일 
 
@@ -43,11 +43,11 @@
 > 개발인원  : 5명
 >
 > 
->
+><br>
 > 기술스택:
 >
 > Java 8 / Spring 4.3 / Javascript / OracleDB / AWS 
 >
 > 
->
+><br>
 > [ 프로젝트 상세 설명](https://github.com/SOJUNG16/andOne) 참고
