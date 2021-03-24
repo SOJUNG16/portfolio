@@ -50,4 +50,4 @@
 >
 > 
 ><br>
-> [ 프로젝트 상세 설명](https://github.com/SOJUNG16/andOne) 참고
+>[ 프로젝트 상세 설명](https://github.com/SOJUNG16/andOne) 참고
