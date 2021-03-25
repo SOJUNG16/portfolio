@@ -56,16 +56,9 @@
 
 
 
-
-
 <details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
+    <summary><b>핵심기능 설명 펼치기</b></summary>
+    <div markdown="1"> 
+        ![](https://user-images.githubusercontent.com/66711644/112285006-3167c280-8ccd-11eb-9018-c0348a6b6559.png)  </div></details>
 
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
 
-</div>
-</details>
